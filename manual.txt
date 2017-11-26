@@ -1,0 +1,15 @@
+**********************************************************************************
+************************************** manual ************************************
+**********************************************************************************
+para usar o indexlist vc precisa dizer ao programa a quantidade de numeros
+ex: 999 ele ira criar uma wordlist de 0 a 999 que seria uma wordlist de 3 numeros.
+o arquivo txt ira aparecer no mesmo lugar em que se emcontra o execultavel.
+para execultar o programa vc precisa ir ao terminal e digitar ./indexlist
+exemplo, se o programa estiver em Documentos vc vai digitar no terminal:
+cd /home/usuario/Documentos e de enter para entrar na pasta.
+logo em seguida vc vai digitar
+./indexlist
+e irar abrir o programa!
+OBS: não minimize o terminal! se vc minimizar o programa irar travar!
+**********************************************************************************
+                                                                   não use para o mal!!!
